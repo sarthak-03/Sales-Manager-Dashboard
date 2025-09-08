@@ -42,7 +42,7 @@ sales-performance-dashboard/
 
 ## 📊 Dashboard Preview
 ### Product Detail  
-! [Product Detail] <img width="1280" height="713" alt="Image" src="https://github.com/user-attachments/assets/2cff71b0-934f-4501-a4b2-4589719c85fd" />
+! [Product Detail] (screenshots/product_detail.png)
 
 ### Sales Overview
 ! [Sales Overview] <img width="1280" height="713" alt="Image" src="https://github.com/user-attachments/assets/7226443d-47ab-442c-8d74-704b1a0a3057" />
