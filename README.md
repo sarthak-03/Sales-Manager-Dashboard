@@ -41,11 +41,11 @@ sales-performance-dashboard/
 ---
 
 ## 📊 Dashboard Preview
-### Product Detail  
-! [Product Detail] (screenshots/product_detail.png)
+### Product Detail 
+![Product Detail](screenshots/product_detail.png)
 
 ### Sales Overview
-! [Sales Overview] <img width="1280" height="713" alt="Image" src="https://github.com/user-attachments/assets/7226443d-47ab-442c-8d74-704b1a0a3057" />
+![Sales Overview](screenshots/sales_overview.JPG)
 
 ---
 
